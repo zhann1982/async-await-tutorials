@@ -1,0 +1,29 @@
+{
+  "name": "async-await-tutorials",
+  "version": "1.0.0",
+  "description": "async await in js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhann1982/async-await-tutorials.git"
+  },
+  "keywords": [
+    "asynchronose"
+  ],
+  "author": "@Zhann1982",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhann1982/async-await-tutorials/issues"
+  },
+  "homepage": "https://github.com/zhann1982/async-await-tutorials#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
